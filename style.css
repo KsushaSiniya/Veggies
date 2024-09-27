@@ -1,0 +1,10 @@
+h1 {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+color: darkgreen; }
+article p:first-child {
+    font-size: 120%;
+    font-weight: bold;
+} 
+article p:second-child {
+    color: brown;
+    }
